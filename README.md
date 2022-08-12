@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eriqeu
 - 👀 I’m interested in everything thats interesting 🤔😁.
-- 🌱 I’m currently learning tge ropes on software engineering.
+- 🌱 I’m currently learning the ropes on software engineering.
 - 💞️ I’m looking forward to collaborate with other bright minds.
 
 <!---
